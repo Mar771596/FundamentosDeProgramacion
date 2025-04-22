@@ -3,6 +3,7 @@ import java.util.Scanner;
     después de un mes si el banco paga a razón de 2% mensual.*/
 
 public  class Ejercicio2 {
+
     public static void main(String[] args) {
         //Definicion de variables
         double capital = 0;
